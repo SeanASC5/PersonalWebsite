@@ -1,0 +1,29 @@
+h1{
+    color:990099;
+    background-color: steelblue;
+    border:10px;
+    border-style: groove;
+    text-align: center;
+}
+
+body{
+
+    background-color: dimgrey;
+    font-size: 20px;
+}
+
+.a{
+    text-align: center;
+    font-size: 20px
+}
+
+img{
+    display: flex;
+    justify-content:space-evenly;
+    flex-flow: row;
+}
+
+#AB{
+    display: flex;
+    flex-flow: row;
+}
